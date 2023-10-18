@@ -1,0 +1,7 @@
+C:\Users\tomas\source\repos\Cwiczenia\bin\Debug\Cwiczenia.exe.config
+C:\Users\tomas\source\repos\Cwiczenia\bin\Debug\Cwiczenia.exe
+C:\Users\tomas\source\repos\Cwiczenia\bin\Debug\Cwiczenia.pdb
+C:\Users\tomas\source\repos\Cwiczenia\obj\Debug\Cwiczenia.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\Cwiczenia\obj\Debug\Cwiczenia.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Cwiczenia\obj\Debug\Cwiczenia.exe
+C:\Users\tomas\source\repos\Cwiczenia\obj\Debug\Cwiczenia.pdb
